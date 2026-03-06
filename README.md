@@ -1,16 +1,33 @@
-```text
-user@system:~$ whoami
-Void (0x5oid)
+## gravloch
 
-user@system:~$ cat /etc/profile
-Role       : Vulnerability Researcher
-Focus      : Memory Corruption, Binary Exploitation, Reverse Engineering
-Languages  : C, C++, x86_64 Assembly, Python
-Tools      : GDB, Ghidra, IDA Pro
-Location   : /dev/null
+> "I don't break systems. I descend into them until they confess."
 
-user@system:~$ ./status --current
-[+] Initializing environment...
-[+] Analyzing system architecture...
-[+] Awaiting execution.
-```
+🔬 exploit dev in progress
+📍 pwn.college — binary exploitation track
+🛠 C · Python · x86 ASM · pwntools · GDB/pwndbg · Linux Kernel
+
+---
+
+### repositories
+
+| repo | purpose |
+|------|---------|
+| [pwn-writeups] | every challenge solved — full technical breakdown |
+| [exploit-lab] | personal exploit development experiments |
+| [kernel-notes] | internals research, paper summaries, deep dives |
+| [gravtools] | custom GDB scripts, pwntools templates, toolbox |
+
+---
+
+### current depth
+- [x] pwn.college fundamentals
+- [ ] heap exploitation — in progress
+- [ ] kernel exploitation
+- [ ] first CVE submission
+- [ ] browser exploitation
+- [ ] custom fuzzer development
+
+---
+
+*gravloch — the anchor descends without stopping.*
+*it holds without explanation.*
